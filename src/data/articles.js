@@ -1,42 +1,42 @@
 const articles = [
     {
         title: "JavaScript Essentials",
-        image: "",
-        content: "",
-        category: "",
-        tags: [],
+        image: "https://picsum.photos/200/100",
+        content: "Lorem",
+        category: "Category",
+        tags: [1, 2, 3],
         publish: true
     },
     {
         title: "HTML & CSS Masterclass",
-        image: "",
-        content: "",
-        category: "",
-        tags: [],
+        image: "https://picsum.photos/200/100",
+        content: "Lorem",
+        category: "Category",
+        tags: [1, 2, 3],
         publish: true
     },
     {
         title: "Python for Web Dev",
-        image: "",
-        content: "",
-        category: "",
-        tags: [],
+        image: "https://picsum.photos/200/100",
+        content: "Lorem",
+        category: "Category",
+        tags: [1, 2, 3],
         publish: false
     },
     {
         title: "React: Build Modern Apps",
-        image: "",
-        content: "",
-        category: "",
-        tags: [],
+        image: "https://picsum.photos/200/100",
+        content: "Lorem",
+        category: "Category",
+        tags: [1, 2, 3],
         publish: true
     },
     {
         title: "Web Security Best Practices",
-        image: "",
-        content: "",
-        category: "",
-        tags: [],
+        image: "https://picsum.photos/200/100",
+        content: "Lorem",
+        category: "Category",
+        tags: [1, 2, 3],
         publish: false
     }
 
